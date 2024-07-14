@@ -1,0 +1,27 @@
+enabled: true
+id: "services"
+
+content:
+  title: "A nossa equipa"
+  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  cards:
+    - image: "images/person.jpg"
+      title: "Nome da Pessoa"
+      text: "Possível descrição"
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Nome da Pessoa 2"
+      text: "Possível descrição"
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - image: "images/services-web-development.png"
+      title: "Nome da Pessoa 3"
+      text: "Possível descrição"
+      button:
+        label: "Learn more"
+        url: "#"

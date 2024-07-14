@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "**PSIKIT** Formações em psiquiatria e pedopsiquiatria"
+  text: "Organizamos formações especialmente dirigidas para profissionais de saúde."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+

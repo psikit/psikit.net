@@ -1,0 +1,4 @@
+baseURL = 'https://psikit.org/'
+languageCode = 'pt-pt'
+title = 'Psikit'
+theme = 'up-business'
