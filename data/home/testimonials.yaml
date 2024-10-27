@@ -2,7 +2,7 @@ enabled: true
 id: "testimonials"
 
 content:
-  title: "Testimonials"
+  title: "Testemunhos PSIKIT"
 
   featured:
     image: "images/testimonials-awards.png"

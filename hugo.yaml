@@ -1,0 +1,36 @@
+baseURL: "https://www.psikit.org/"
+theme: "up-business-theme"
+languageCode: "pt-pt"
+theme: 'up-business'
+
+title: "PSIKIT"
+
+params:
+  title: "PSIKIT"
+  description: "Formações em psiquiatria e pedopsiquiatria"
+  images: 
+    - "images/hero-psikit.png"
+
+menus:
+  main:
+    - name: "Coordenação"
+      url: "/#services"
+      weight: 1
+
+    - name: "Formações"
+      url: "/#formacoes"
+      weight: 2
+
+    - name: "Testemunhos"
+      url: "/#testemonials"
+      weight: 3
+
+    - name: "Parceiros"
+      url: "/#brands"
+      weight: 4
+
+    - name: "Contactos"
+      url: "/#contacts"
+      weight: 5
+
+copyright: "© 2024 PSIKIT"

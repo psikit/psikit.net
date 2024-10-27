@@ -1,16 +1,16 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://www.psikit.org/"
 theme: "up-business-theme"
-languageCode: "en-us"
+languageCode: "pt-pt"
 
-title: "Up Business"
+title: "PSIKIT"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  title: "PSIKIT"
+  description: "Formações em psiquiatria e pedopsiquiatria"
   images: 
     - "images/hero-psikit.png"
 
@@ -29,13 +29,12 @@ params:
 
   location:
     - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
 
   contact:
     - "trungkienspktnd@gamail.com"
     - "207.555.0119"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2024 Up PSIKIT All Rights Reserved"
 
 menus:
   main:

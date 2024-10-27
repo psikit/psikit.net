@@ -1,0 +1,5 @@
+enabled: true
+id: "contacts"
+
+content:
+  title: "Contactos PSIKIT"

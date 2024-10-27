@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Index on Psikit</title>
+    <title>Index on PSIKIT</title>
     <link>http://localhost:1313/tags/index/</link>
-    <description>Recent content in Index on Psikit</description>
+    <description>Recent content in Index on PSIKIT</description>
     <generator>Hugo</generator>
     <language>pt-pt</language>
+    <copyright>© 2024 PSIKIT</copyright>
     <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index/index.xml" rel="self" type="application/rss+xml" />
   </channel>

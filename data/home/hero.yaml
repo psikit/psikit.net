@@ -13,3 +13,7 @@ content:
     label: "Let's talk"
     url: ""
 
+  buttonScroll:
+    label: "Saiba mais"
+    url: "#services"
+

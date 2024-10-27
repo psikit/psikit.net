@@ -2,26 +2,20 @@ enabled: true
 id: "services"
 
 content:
-  title: "A nossa equipa"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  title: "Coordenação PSIKIT"
+  text: "A Psikit surge por nos termos deparado com a escassez de formações nas áreas de psiquiatria de adultos e da infância e da adolescência, adaptadas às especificidades da prática clínica. 
+  O objetivo da Psikit é capacitar e melhorar a qualidade da avaliação, diagnóstico e intervenção dos médicos (internos e especialistas) de psiquiatria de adultos, psiquiatria da infância e da adolescência e de medicina geral e familiar, através da organização de formações/workshops/cursos sobre os mais variados temas de saúde e doença mental. Consequentemente, esperamos enriquecer a prática clínica destas especialidades e melhorar os cuidados prestados."
   cards:
-    - image: "images/person.jpg"
-      title: "Nome da Pessoa"
-      text: "Possível descrição"
-      button:
-        label: "Learn more"
-        url: "#"
+    - image: "images/ines.jpeg"
+      title: "Inês Barroca"
+      text: "Psiquiatra da Infância e da Adolescência na Unidade Local de Saúde de Lisboa Ocidental. Assistente convidada na NOVA Medical School. Tem especial interesse nas áreas de Perturbações do neurodesenvolvimento, Perturbações de ansiedade, Perturbações do humor e Perturbações relacionadas com trauma e fatores de stress."
+      #button:
+      #  label: "Learn more"
+      #  url: "#"
 
-    - image: "images/services-web-development.png"
-      title: "Nome da Pessoa 2"
-      text: "Possível descrição"
-      button:
-        label: "Learn more"
-        url: "#"
-
-    - image: "images/services-web-development.png"
-      title: "Nome da Pessoa 3"
-      text: "Possível descrição"
-      button:
-        label: "Learn more"
-        url: "#"
+    - image: "images/catarina.jpeg"
+      title: "Catarina Melo Santos"
+      text: "Psiquiatra na Unidade Local de Saúde de Lisboa Ocidental. Assistente convidada na NOVA Medical School. Tem especial interesse nas áreas de Perturbações do neurodesenvolvimento, Psiquiatria perinatal e Perturbações do comportamento alimentar"
+      #button:
+      #  label: "Learn more"
+      #  url: "#"

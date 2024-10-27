@@ -1,8 +1,8 @@
 enabled: true
-id: "cta"
+id: "formacoes"
 
 content:
-  title: "Start your business now!"
+  title: "Formações PSIKIT"
   image: "images/services-web-development.png"
   button:
     label: "Let's talk"
