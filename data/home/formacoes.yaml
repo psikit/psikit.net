@@ -3,6 +3,12 @@ id: "formacoes"
 
 content:
   title: "Formações PSIKIT"
+  formacao:
+    text: ""
+    date: "22 de Março de 2025"
+    format: "Online (Zoom)"
+    
+
   image: "images/services-web-development.png"
   button:
     label: "Let's talk"
