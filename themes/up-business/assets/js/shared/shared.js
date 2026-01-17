@@ -7,7 +7,6 @@ import "../sections/hero";
 import "../sections/brands";
 import "../sections/portfolio";
 import "../sections/services";
-import "../sections/testimonials";
 import "../sections/formacoes";
 
 import "../sections/blog-list";

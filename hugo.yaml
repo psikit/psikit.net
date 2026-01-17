@@ -21,16 +21,12 @@ menus:
       url: "/#formacoes"
       weight: 2
 
-    - name: "Testemunhos"
-      url: "/#testemonials"
-      weight: 3
-
     - name: "Parceiros"
       url: "/#brands"
-      weight: 4
+      weight: 3 
 
     - name: "Contactos"
       url: "/#contacts"
-      weight: 5
+      weight: 4
 
-copyright: "© 2024 PSIKIT"
+copyright: "© 2026 PSIKIT"
